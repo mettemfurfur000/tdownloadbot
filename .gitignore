@@ -1,0 +1,5 @@
+downloads/*
+tembot*
+*.pkl
+__pycache__
+keys.py
